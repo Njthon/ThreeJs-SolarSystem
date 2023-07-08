@@ -1,6 +1,6 @@
 import * as THREE from './node_modules/three/build/three.module.js';
 
-import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 
 import earthTexture from "/src/img/earth.jpg"
 import jupiterTexture from "/src/img/jupiter.jpg"
